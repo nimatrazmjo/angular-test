@@ -1,0 +1,5 @@
+<div #map id="map"></div>
+<!-- <input type="text" placeholder="search for USA ZIPs"> -->
+<ng-select placeholder="Please select an state" (change)="changeState($event)">
+  <ng-option *ngFor="let state of states" [value]="state.zip">{{state.city}} - {{state.zip}}</ng-option>
+</ng-select>

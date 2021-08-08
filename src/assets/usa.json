@@ -1,0 +1,576 @@
+[
+    {
+        "zip": "601",
+        "lat": "18.18005",
+        "lng": "-66.75218",
+        "city": "Adjuntas",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "602",
+        "lat": "18.36074",
+        "lng": "-67.17519",
+        "city": "Aguada",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "603",
+        "lat": "18.4544",
+        "lng": "-67.12201",
+        "city": "Aguadilla",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "606",
+        "lat": "18.16721",
+        "lng": "-66.93828",
+        "city": "Maricao",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "610",
+        "lat": "18.29032",
+        "lng": "-67.12244",
+        "city": "Anasco",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "612",
+        "lat": "18.40699",
+        "lng": "-66.70805",
+        "city": "Arecibo",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "616",
+        "lat": "18.41752",
+        "lng": "-66.66814",
+        "city": "Bajadero",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "617",
+        "lat": "18.44125",
+        "lng": "-66.55916",
+        "city": "Barceloneta",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "622",
+        "lat": "17.99174",
+        "lng": "-67.15248",
+        "city": "Boqueron",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "623",
+        "lat": "18.08354",
+        "lng": "-67.15418",
+        "city": "Cabo Rojo",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "624",
+        "lat": "18.06465",
+        "lng": "-66.71823",
+        "city": "Penuelas",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "627",
+        "lat": "18.419",
+        "lng": "-66.86033",
+        "city": "Camuy",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "631",
+        "lat": "18.18555",
+        "lng": "-66.83327",
+        "city": "Castaner",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "637",
+        "lat": "18.0798",
+        "lng": "-66.94274",
+        "city": "Sabana Grande",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "638",
+        "lat": "18.28905",
+        "lng": "-66.5151",
+        "city": "Ciales",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "641",
+        "lat": "18.26408",
+        "lng": "-66.71376",
+        "city": "Utuado",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "646",
+        "lat": "18.43401",
+        "lng": "-66.2833",
+        "city": "Dorado",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "647",
+        "lat": "17.96612",
+        "lng": "-66.94383",
+        "city": "Ensenada",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "650",
+        "lat": "18.34321",
+        "lng": "-66.58601",
+        "city": "Florida",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "652",
+        "lat": "18.45542",
+        "lng": "-66.60635",
+        "city": "Garrochales",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "653",
+        "lat": "17.98572",
+        "lng": "-66.89031",
+        "city": "Guanica",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "656",
+        "lat": "18.05281",
+        "lng": "-66.79182",
+        "city": "Guayanilla",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "659",
+        "lat": "18.41069",
+        "lng": "-66.79648",
+        "city": "Hatillo",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "660",
+        "lat": "18.13419",
+        "lng": "-67.11403",
+        "city": "Hormigueros",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "662",
+        "lat": "18.46208",
+        "lng": "-67.01444",
+        "city": "Isabela",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "664",
+        "lat": "18.21151",
+        "lng": "-66.5889",
+        "city": "Jayuya",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "667",
+        "lat": "18.01227",
+        "lng": "-67.0409",
+        "city": "Lajas",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "669",
+        "lat": "18.27102",
+        "lng": "-66.86982",
+        "city": "Lares",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "670",
+        "lat": "18.23776",
+        "lng": "-66.98875",
+        "city": "Las Marias",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "674",
+        "lat": "18.42123",
+        "lng": "-66.49003",
+        "city": "Manati",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "676",
+        "lat": "18.37789",
+        "lng": "-67.08084",
+        "city": "Moca",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "677",
+        "lat": "18.3357",
+        "lng": "-67.23168",
+        "city": "Rincon",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "678",
+        "lat": "18.4327",
+        "lng": "-66.92813",
+        "city": "Quebradillas",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "680",
+        "lat": "18.16328",
+        "lng": "-67.36192",
+        "city": "Mayaguez",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "682",
+        "lat": "18.22118",
+        "lng": "-67.15381",
+        "city": "Mayaguez",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "683",
+        "lat": "18.10998",
+        "lng": "-67.0373",
+        "city": "San German",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "685",
+        "lat": "18.33625",
+        "lng": "-66.97225",
+        "city": "San Sebastian",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "687",
+        "lat": "18.31708",
+        "lng": "-66.4203",
+        "city": "Morovis",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "688",
+        "lat": "18.38056",
+        "lng": "-66.62425",
+        "city": "Sabana Hoyos",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "690",
+        "lat": "18.49563",
+        "lng": "-67.09822",
+        "city": "San Antonio",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "692",
+        "lat": "18.40845",
+        "lng": "-66.33691",
+        "city": "Vega Alta",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "693",
+        "lat": "18.42132",
+        "lng": "-66.40012",
+        "city": "Vega Baja",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "694",
+        "lat": "18.48329",
+        "lng": "-66.39261",
+        "city": "Vega Baja",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "698",
+        "lat": "18.06727",
+        "lng": "-66.85273",
+        "city": "Yauco",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "703",
+        "lat": "18.24843",
+        "lng": "-66.13117",
+        "city": "Aguas Buenas",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "704",
+        "lat": "17.96719",
+        "lng": "-66.22013",
+        "city": "Aguirre",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "705",
+        "lat": "18.12946",
+        "lng": "-66.26477",
+        "city": "Aibonito",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "707",
+        "lat": "18.01813",
+        "lng": "-65.922",
+        "city": "Maunabo",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "714",
+        "lat": "17.99854",
+        "lng": "-66.05606",
+        "city": "Arroyo",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "715",
+        "lat": "18.01174",
+        "lng": "-66.55987",
+        "city": "Mercedita",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "716",
+        "lat": "17.99942",
+        "lng": "-66.60014",
+        "city": "Ponce",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "717",
+        "lat": "18.00342",
+        "lng": "-66.61325",
+        "city": "Ponce",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "718",
+        "lat": "18.2333",
+        "lng": "-65.7611",
+        "city": "Naguabo",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "719",
+        "lat": "18.2888",
+        "lng": "-66.25336",
+        "city": "Naranjito",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "720",
+        "lat": "18.21772",
+        "lng": "-66.42816",
+        "city": "Orocovis",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "723",
+        "lat": "18.03237",
+        "lng": "-66.01233",
+        "city": "Patillas",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "725",
+        "lat": "18.21857",
+        "lng": "-66.04275",
+        "city": "Caguas",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "727",
+        "lat": "18.21496",
+        "lng": "-66.07356",
+        "city": "Caguas",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "728",
+        "lat": "18.00627",
+        "lng": "-66.6612",
+        "city": "Ponce",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "729",
+        "lat": "18.33113",
+        "lng": "-65.88722",
+        "city": "Canovanas",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "730",
+        "lat": "18.03091",
+        "lng": "-66.61659",
+        "city": "Ponce",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "731",
+        "lat": "18.09776",
+        "lng": "-66.63356",
+        "city": "Ponce",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "735",
+        "lat": "18.25365",
+        "lng": "-65.68306",
+        "city": "Ceiba",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "736",
+        "lat": "18.10652",
+        "lng": "-66.15258",
+        "city": "Cayey",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "738",
+        "lat": "18.31828",
+        "lng": "-65.66785",
+        "city": "Fajardo",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "739",
+        "lat": "18.17681",
+        "lng": "-66.16055",
+        "city": "Cidra",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "740",
+        "lat": "18.3322",
+        "lng": "-65.63429",
+        "city": "Puerto Real",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "741",
+        "lat": "18.16564",
+        "lng": "-65.75563",
+        "city": "Punta Santiago",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "745",
+        "lat": "18.34827",
+        "lng": "-65.8172",
+        "city": "Rio Grande",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "751",
+        "lat": "18.01021",
+        "lng": "-66.24751",
+        "city": "Salinas",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "754",
+        "lat": "18.1457",
+        "lng": "-65.97606",
+        "city": "San Lorenzo",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "757",
+        "lat": "17.99728",
+        "lng": "-66.38891",
+        "city": "Santa Isabel",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "765",
+        "lat": "18.12852",
+        "lng": "-65.44088",
+        "city": "Vieques",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "766",
+        "lat": "18.13299",
+        "lng": "-66.47703",
+        "city": "Villalba",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "767",
+        "lat": "18.07052",
+        "lng": "-65.89606",
+        "city": "Yabucoa",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "769",
+        "lat": "18.097",
+        "lng": "-66.36102",
+        "city": "Coamo",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "771",
+        "lat": "18.18746",
+        "lng": "-65.86932",
+        "city": "Las Piedras",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "772",
+        "lat": "18.43267",
+        "lng": "-65.90836",
+        "city": "Loiza",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "773",
+        "lat": "18.34174",
+        "lng": "-65.7274",
+        "city": "Luquillo",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "775",
+        "lat": "18.31347",
+        "lng": "-65.29017",
+        "city": "Culebra",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "777",
+        "lat": "18.22357",
+        "lng": "-65.90881",
+        "city": "Juncos",
+        "state_name": "Puerto Rico"
+    },
+    {
+        "zip": "778",
+        "lat": "18.26339",
+        "lng": "-65.97936",
+        "city": "Gurabo",
+        "state_name": "Puerto Rico"
+    }
+]
